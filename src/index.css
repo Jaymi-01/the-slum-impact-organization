@@ -8,6 +8,7 @@ body{
 }   
 
 @theme{
+    --font-one: Merienda;
     --color-header: #142d4d;
     --color-primary: #04192b;
     --color-secondary: #01172f;
