@@ -72,4 +72,9 @@ export const projects =[
         text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est, ullam.",
         image: ".png",
     },
+    {
+        title: "Project Seven",
+        text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est, ullam.",
+        image: ".png",
+    },
 ]
