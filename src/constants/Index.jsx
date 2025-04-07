@@ -1,7 +1,8 @@
+import image1 from "../images/image1.jpg";
 export const excos =[
     {
         name: "Lorem Ipsum",
-        images: "/src/images/image1.jpg",
+        images: image1,
         role: "Lorem Ipsum",
         biodata: "Lorem Ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.",
     },
