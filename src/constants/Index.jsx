@@ -1,41 +1,49 @@
 export const excos =[
     {
+        name: "Lorem Ipsum",
+        images: "/src/images/image1.jpg",
+        role: "Lorem Ipsum",
+        biodata: "Lorem Ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus.",
+    },
+    {
         name: "",
+        role: "Lorem Ipsum",
         images: "",
         biodata: "",
     },
     {
         name: "",
+        role: "Lorem Ipsum",
         images: "",
         biodata: "",
     },
     {
         name: "",
+        role: "Lorem Ipsum",
         images: "",
         biodata: "",
     },
     {
         name: "",
+        role: "Lorem Ipsum",
         images: "",
         biodata: "",
     },
     {
         name: "",
+        role: "Lorem Ipsum",
         images: "",
         biodata: "",
     },
     {
         name: "",
+        role: "Lorem Ipsum",
         images: "",
         biodata: "",
     },
     {
         name: "",
-        images: "",
-        biodata: "",
-    },
-    {
-        name: "",
+        role: "Lorem Ipsum",
         images: "",
         biodata: "",
     },
